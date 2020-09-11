@@ -10,4 +10,4 @@ https://github.com/devegoo/Steinway-B-211
 
 https://github.com/devegoo/TASCAM-CVPiano
 
-licence & description on oryginal site sources
+license & description on oryginal site sources
